@@ -48,7 +48,7 @@ const PortfolioHero = () => {
               <span>Contact Me</span>
             </a>
             <a
-              href="https://drive.google.com/file/d/13uU83g4CP2FGrh-A5Z0zWuUzRAXhx212/view?usp=sharing"
+              href="https://drive.google.com/file/d/1jFpcfU9e-bquE-5yDF3U8Bv4oALq40M-/view?usp=sharing"
               download="AshutoshResume.pdf"
               className="bg-transparent border border-pink-500 hover:bg-pink-500 text-white py-2 px-4 rounded-md flex items-center space-x-2"
             >
