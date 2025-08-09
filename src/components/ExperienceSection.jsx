@@ -5,7 +5,7 @@ import ex from "../assets/exper.png";
 const ExperienceSection = () => {
   const experiences = [
     {
-      period: "June 2024 - August 2024",
+      period: "July 2024 - September 2024",
       title: "Web Developer Intern",
       company: "Bluestock Fintech",
     },
