@@ -10,12 +10,17 @@ const ProjectsSection = () => {
       link: "https://craft-connect-6xp2.vercel.app/", // Replace with actual repo link if different
     },
     {
+      title: "Co-Draw.AI",
+      description:
+      "CoDraw.AI is an AI-enhanced collaborative drawing platform that lets users sketch together in real time while the system intelligently suggests shapes, colors, and enhancements to elevate everyone’s artwork.",
+      link: "https://codraw-ai.onrender.com",
+    },
+    {
       title: "FoodKalash",
       description:
         "A full-stack food delivery website with menu browsing, order placement, and donation features, ensuring a seamless user experience.",
       link: "",
-    }
-    ,
+    },
     {
       title: "Nebbulon AI",
       description:
@@ -27,13 +32,13 @@ const ProjectsSection = () => {
       description:
         "Co-Code is a MERN stack, microservices-based collaborative coding platform where multiple users can code together in real-time and chat simultaneously. It leverages WebSockets for live interaction, integrates Nodemailer for communication.",
       link: "https://co-code-g1bo.onrender.com/",
+    },
+    {
+      title: "NutriDates",
+      description:
+      "NutriDates is an e-commerce platform dedicated to selling a variety of nutritious dates, combining health-focused offerings with a smooth online shopping experience.",      
+      link: "https://nutri-dates-39fv9rcir-ashutoshs-projects-4481ae56.vercel.app/",
     }
-    // {
-    //   title: "Job Portal",
-    //   description:
-    //     "A job portal designed to connect employers with job seekers, offering features like job listings, application tracking, and real-time chat.",
-    //   link: "https://github.com/imangadydv/Jobportal",
-    // },
     // {
     //   title: "ChitChat",
     //   description:
