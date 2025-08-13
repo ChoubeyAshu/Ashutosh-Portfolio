@@ -1,8 +1,41 @@
-# React + Vite
+# ​ Ashutosh Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website, built to showcase my skills, projects, experience, and to connect professionally.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ​ Features
+
+- **Home / Hero**: Clean and engaging introduction with a call-to-action.
+- **About Me**: Overview of background, strengths, and personal touch.
+- **Projects**: Showcasing live demos and GitHub repositories of my work.
+- **Skills & Tech Stack**: Highlighting the technologies I'm proficient in.
+- **Contact**: Easy-to-access contact form or links to get in touch.
+
+---
+
+## ​ Tech Stack
+
+- **Framework**: React (powered by Vite)
+- **Styling**: Tailwind CSS
+- **Animations & Effects**: (Include if used – e.g. Framer Motion, GSAP)
+- **Deployment**: Vercel or GitHub Pages
+
+---
+
+## ​ Live Demo
+
+Check out the deployed site here:  
+[https://your-portfolio-url.com](https://your-portfolio-url.com)
+
+---
+
+## ​ Getting Started
+
+To run it locally:
+
+```bash
+git clone https://github.com/ChoubeyAshu/Ashutosh-Portfolio.git
+cd Ashutosh-Portfolio
+npm install
+npm run dev
